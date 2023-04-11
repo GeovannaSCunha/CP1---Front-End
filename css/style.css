@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+    background-image: url(../img/background\ fundo.png);
+    
+}
+
+h1{
+    color: rgb(228, 31, 97);
+    background-color: black;
+}
