@@ -1,10 +1,21 @@
 body{
     background-color: grey;
     background-image: url(../img/background\ fundo.png);
-    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
 }
 
 h1{
     color: rgb(228, 31, 97);
     background-color: black;
+}
+
+div{
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    background-color: aquamarine;
+    background-image: url(../img/Propaganda.png);
+    background-attachment: fixed;
 }
